@@ -24,9 +24,9 @@ Man tager tandpastatuben i venstre hånd, derefter bruges højre hånd til at ta
 Tandbørste placeres derefter i venstre side i undermunden hvorpå tandbørstehovedet roteres med uret. Efter en rotation skiften til næste tand indtil sidst tand i undermunden er nået. Derefter skiftets der overflade over til den øverst del af tandenbørste på samme vis, og på sammevise bagpå tænderne. Når undermunden er børste færdig skiftes der til overmunden med samme koncept.
 Når tænderne er børste tænder man vandhanen hvorefter tandbørsten skyldes og derefter munden.
 
-#Give your thoughts on TDD
+# Give your thoughts on TDD
 
-####the following questions.
+#### the following questions.
 * What was positive and good about using TDD?
 
 Man rammer egde cases, som man muligvis ikke havde fået opdagdet hvis man ikke havde lavede test dertil. Dette oplevede jeg selv da jeg skulle sammenligne excepted med return fra functionen, her tilrettede jeg derefter at der max kan være 2 dicimaler.
